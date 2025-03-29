@@ -1,0 +1,7 @@
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\9. Char Projesi\bin\Debug\_9.Char_Projesi.exe.config
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\9. Char Projesi\bin\Debug\_9.Char_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\9. Char Projesi\bin\Debug\_9.Char_Projesi.pdb
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\9. Char Projesi\obj\Debug\9. Char Projesi.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\9. Char Projesi\obj\Debug\9. Char Projesi.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\9. Char Projesi\obj\Debug\_9.Char_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\9. Char Projesi\obj\Debug\_9.Char_Projesi.pdb

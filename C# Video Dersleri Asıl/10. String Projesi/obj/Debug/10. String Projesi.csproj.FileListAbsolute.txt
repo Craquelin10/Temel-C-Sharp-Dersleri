@@ -1,0 +1,7 @@
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\10. String Projesi\bin\Debug\_10.String_Projesi.exe.config
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\10. String Projesi\bin\Debug\_10.String_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\10. String Projesi\bin\Debug\_10.String_Projesi.pdb
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\10. String Projesi\obj\Debug\10. String Projesi.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\10. String Projesi\obj\Debug\10. String Projesi.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\10. String Projesi\obj\Debug\_10.String_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\10. String Projesi\obj\Debug\_10.String_Projesi.pdb

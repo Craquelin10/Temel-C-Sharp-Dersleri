@@ -1,0 +1,7 @@
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\15. ModAlma Projesi\bin\Debug\_15.ModAlma_Projesi.exe.config
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\15. ModAlma Projesi\bin\Debug\_15.ModAlma_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\15. ModAlma Projesi\bin\Debug\_15.ModAlma_Projesi.pdb
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\15. ModAlma Projesi\obj\Debug\15. ModAlma Projesi.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\15. ModAlma Projesi\obj\Debug\15. ModAlma Projesi.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\15. ModAlma Projesi\obj\Debug\_15.ModAlma_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\15. ModAlma Projesi\obj\Debug\_15.ModAlma_Projesi.pdb

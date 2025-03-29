@@ -1,0 +1,7 @@
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\11. Boolean Projesi\bin\Debug\_11.Boolean_Projesi.exe.config
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\11. Boolean Projesi\bin\Debug\_11.Boolean_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\11. Boolean Projesi\bin\Debug\_11.Boolean_Projesi.pdb
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\11. Boolean Projesi\obj\Debug\11. Boolean Projesi.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\11. Boolean Projesi\obj\Debug\11. Boolean Projesi.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\11. Boolean Projesi\obj\Debug\_11.Boolean_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\11. Boolean Projesi\obj\Debug\_11.Boolean_Projesi.pdb

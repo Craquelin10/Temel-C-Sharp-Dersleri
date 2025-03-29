@@ -1,0 +1,7 @@
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\7. Float Projesi\bin\Debug\_7.Float_Projesi.exe.config
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\7. Float Projesi\bin\Debug\_7.Float_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\7. Float Projesi\bin\Debug\_7.Float_Projesi.pdb
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\7. Float Projesi\obj\Debug\7. Float Projesi.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\7. Float Projesi\obj\Debug\7. Float Projesi.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\7. Float Projesi\obj\Debug\_7.Float_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\7. Float Projesi\obj\Debug\_7.Float_Projesi.pdb

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kadir\\Desktop\\C# Video Dersleri As\u0131l\\1. Tan\u0131t\u0131m\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAB05F4-97AD-4E67-BBC3-56CB2D3E93EC}|..\\Art\u0131rmaVeAzaltma Projesi\\Art\u0131rmaVeAzaltma Projesi.csproj|c:\\users\\kadir\\desktop\\c# video dersleri as\u0131l\\art\u0131rmaveazaltma projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6036C350-56C8-4854-9E37-B7A4FB690C9C}|..\\15. ModAlma Projesi\\15. ModAlma Projesi.csproj|c:\\users\\kadir\\desktop\\c# video dersleri as\u0131l\\15. modalma projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BC66BC-C646-415A-8B59-4C6C5AD45614}|..\\14. \u00C7arpmaVeB\u00F6lme Projesi\\14. \u00C7arpmaVeB\u00F6lme Projesi.csproj|c:\\users\\kadir\\desktop\\c# video dersleri as\u0131l\\14. \u00E7arpmaveb\u00F6lme projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\C# Video Dersleri As\u0131l\\Art\u0131rmaVeAzaltma Projesi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Art\u0131rmaVeAzaltma Projesi\\Program.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\C# Video Dersleri As\u0131l\\Art\u0131rmaVeAzaltma Projesi\\Program.cs",
+              "RelativeToolTip": "..\\Art\u0131rmaVeAzaltma Projesi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:30:11.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\C# Video Dersleri As\u0131l\\15. ModAlma Projesi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\15. ModAlma Projesi\\Program.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\C# Video Dersleri As\u0131l\\15. ModAlma Projesi\\Program.cs",
+              "RelativeToolTip": "..\\15. ModAlma Projesi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:25:40.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kadir\\Desktop\\C# Video Dersleri As\u0131l\\14. \u00C7arpmaVeB\u00F6lme Projesi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\14. \u00C7arpmaVeB\u00F6lme Projesi\\Program.cs",
+              "ToolTip": "C:\\Users\\kadir\\Desktop\\C# Video Dersleri As\u0131l\\14. \u00C7arpmaVeB\u00F6lme Projesi\\Program.cs",
+              "RelativeToolTip": "..\\14. \u00C7arpmaVeB\u00F6lme Projesi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:22:26.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

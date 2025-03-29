@@ -1,0 +1,7 @@
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\14. ÇarpmaVeBölme Projesi\bin\Debug\_14.ÇarpmaVeBölme_Projesi.exe.config
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\14. ÇarpmaVeBölme Projesi\bin\Debug\_14.ÇarpmaVeBölme_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\14. ÇarpmaVeBölme Projesi\bin\Debug\_14.ÇarpmaVeBölme_Projesi.pdb
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\14. ÇarpmaVeBölme Projesi\obj\Debug\14. ÇarpmaVeBölme Projesi.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\14. ÇarpmaVeBölme Projesi\obj\Debug\14. ÇarpmaVeBölme Projesi.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\14. ÇarpmaVeBölme Projesi\obj\Debug\_14.ÇarpmaVeBölme_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\14. ÇarpmaVeBölme Projesi\obj\Debug\_14.ÇarpmaVeBölme_Projesi.pdb

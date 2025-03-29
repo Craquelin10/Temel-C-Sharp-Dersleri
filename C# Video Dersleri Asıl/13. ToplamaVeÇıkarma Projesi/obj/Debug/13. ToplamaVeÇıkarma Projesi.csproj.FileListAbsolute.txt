@@ -1,0 +1,7 @@
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\13. ToplamaVeÇıkarma Projesi\bin\Debug\_13.ToplamaVeÇıkarma_Projesi.exe.config
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\13. ToplamaVeÇıkarma Projesi\bin\Debug\_13.ToplamaVeÇıkarma_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\13. ToplamaVeÇıkarma Projesi\bin\Debug\_13.ToplamaVeÇıkarma_Projesi.pdb
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\13. ToplamaVeÇıkarma Projesi\obj\Debug\13. ToplamaVeÇıkarma Projesi.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\13. ToplamaVeÇıkarma Projesi\obj\Debug\13. ToplamaVeÇıkarma Projesi.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\13. ToplamaVeÇıkarma Projesi\obj\Debug\_13.ToplamaVeÇıkarma_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\13. ToplamaVeÇıkarma Projesi\obj\Debug\_13.ToplamaVeÇıkarma_Projesi.pdb

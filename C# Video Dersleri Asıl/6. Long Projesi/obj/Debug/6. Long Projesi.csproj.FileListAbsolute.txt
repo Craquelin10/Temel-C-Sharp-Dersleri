@@ -1,0 +1,7 @@
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\6. Long Projesi\bin\Debug\_6.Long_Projesi.exe.config
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\6. Long Projesi\bin\Debug\_6.Long_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\6. Long Projesi\bin\Debug\_6.Long_Projesi.pdb
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\6. Long Projesi\obj\Debug\6. Long Projesi.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\6. Long Projesi\obj\Debug\6. Long Projesi.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\6. Long Projesi\obj\Debug\_6.Long_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\6. Long Projesi\obj\Debug\_6.Long_Projesi.pdb

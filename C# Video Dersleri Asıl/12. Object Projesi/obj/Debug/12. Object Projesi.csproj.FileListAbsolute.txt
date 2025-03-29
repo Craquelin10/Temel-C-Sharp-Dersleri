@@ -1,0 +1,7 @@
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\12. Object Projesi\bin\Debug\_12.Object_Projesi.exe.config
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\12. Object Projesi\bin\Debug\_12.Object_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\12. Object Projesi\bin\Debug\_12.Object_Projesi.pdb
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\12. Object Projesi\obj\Debug\12. Object Projesi.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\12. Object Projesi\obj\Debug\12. Object Projesi.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\12. Object Projesi\obj\Debug\_12.Object_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\12. Object Projesi\obj\Debug\_12.Object_Projesi.pdb
