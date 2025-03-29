@@ -1,0 +1,7 @@
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\16. Operatorler Projesi\bin\Debug\_16.Operatorler_Projesi.exe.config
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\16. Operatorler Projesi\bin\Debug\_16.Operatorler_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\16. Operatorler Projesi\bin\Debug\_16.Operatorler_Projesi.pdb
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\16. Operatorler Projesi\obj\Debug\16. Operatorler Projesi.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\16. Operatorler Projesi\obj\Debug\16. Operatorler Projesi.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\16. Operatorler Projesi\obj\Debug\_16.Operatorler_Projesi.exe
+C:\Users\kadir\Desktop\C# Video Dersleri Asıl\16. Operatorler Projesi\obj\Debug\_16.Operatorler_Projesi.pdb
